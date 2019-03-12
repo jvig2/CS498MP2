@@ -1,0 +1,11 @@
+$app-padding: 36px;
+$app-outer-radius: 16px;
+$margin: 10%;
+@import '../colors';
+.Home {
+    background: $color4;
+    text-align: center;
+    margin: $margin;
+    border-radius: $app-outer-radius;
+    padding: $app-padding;
+}

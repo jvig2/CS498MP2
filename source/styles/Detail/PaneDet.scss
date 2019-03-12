@@ -1,0 +1,9 @@
+$paragraph-font-size: 150%;
+$title-font-size: 500%;
+@import '../colors';
+h2 {
+    font-size: $title-font-size;
+}
+p {
+    font-size: $paragraph-font-size;
+}
